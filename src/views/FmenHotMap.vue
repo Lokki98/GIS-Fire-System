@@ -212,7 +212,7 @@ export default {
       var bottom = document.createElement("div");
       bottom.className = "info-bottom";
       bottom.style.position = "relative";
-      bottom.style.top = "0px";
+      bottom.style.top = "2px";
       bottom.style.margin = "0 auto";
       var sharp = document.createElement("img");
       sharp.src = "https://webapi.amap.com/images/sharp.png";
